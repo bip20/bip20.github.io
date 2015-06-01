@@ -1,7 +1,10 @@
 ---
 layout: default
 title: Home
+permalink: /
 ---
+
+[Archive](/archive/)
 
 <div class="posts">
   {% for post in paginator.posts %}
